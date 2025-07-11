@@ -4,7 +4,7 @@
 
 ## 🚀 Sobre mí
 
-- 🔭 Actualmente trabajando en proyectos de **web y automatización**.
+- 🔭 Actualmente trabajando en proyectos de **aprendizaje**.
 - 🧠 Aprendiendo: JavaScript, Python y nuevas tecnologías.
 - 💬 Pregúntame sobre: desarrollo web, GitHub, automatización.
 - ⚡ Fun fact: ¡Me encanta ser creativo y siempre aportar nuevas ideas! ☕🎧
