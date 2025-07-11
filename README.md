@@ -11,7 +11,7 @@
 
 ## 📫 Cómo contactarme
 
-- [Email](mailto:tu-email@ejemplo.com)
+- [Email](mailto:carlosor3000@gmail.com)
 - [LinkedIn](https://linkedin.com/in/tuusuario)
 - [Twitter](https://twitter.com/tuusuario)
 
