@@ -7,7 +7,7 @@
 - 🔭 Actualmente trabajando en proyectos de **web y automatización**.
 - 🧠 Aprendiendo: JavaScript, Python y nuevas tecnologías.
 - 💬 Pregúntame sobre: desarrollo web, GitHub, automatización.
-- ⚡ Fun fact: ¡Me encanta el café y la música electrónica! ☕🎧
+- ⚡ Fun fact: ¡Me encanta ser creativo y siempre aportar nuevas ideas! ☕🎧
 
 ## 📫 Cómo contactarme
 
