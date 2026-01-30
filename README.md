@@ -6,9 +6,7 @@
 <h2>💫 About Me</h2>
 
 <div align="center">
-<a href="https://github.com/Carlos-ortiz23
-">
-<a>
+<a href="https://github.com/Carlos-ortiz23">
   <img width="150px" 
        src="https://komarev.com/ghpvc/?username=Carlos-ortiz23&label=Profile%20views&color=318CE7&style=for-the-badge" 
        alt="Profile views" /></a>
