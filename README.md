@@ -1,6 +1,3 @@
-<div align="center">
-  <img height="auto" src="https://github.com/angel-iscoding/angel-iscoding/blob/main/rain.gif"  />
-</div>
 
 <h1 align="center">¡Hola! I'm Carlos Ortiz 🫡</h1>
 
@@ -11,6 +8,7 @@
 <div align="center">
 <a href="https://github.com/Carlos-ortiz23
 ">
+<a>
   <img width="150px" 
        src="https://komarev.com/ghpvc/?username=Carlos-ortiz23&label=Profile%20views&color=318CE7&style=for-the-badge" 
        alt="Profile views" /></a>
