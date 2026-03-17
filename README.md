@@ -1,5 +1,5 @@
 
-<h1 align="center">¡Hola! I'm Carlos Ortiz 🫡</h1>
+<h1 align="center">¡Hi! I'm Carlos Ortiz 🫡</h1>
 
 <h4 align="left">🌟 I work on Back-end development. I'm also focusing on continuous process improvement. I'm currently working on my programming skills.</h4>
 
