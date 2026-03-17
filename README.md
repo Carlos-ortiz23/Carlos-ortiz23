@@ -1,7 +1,7 @@
 
 <h1 align="center">¡Hola! I'm Carlos Ortiz 🫡</h1>
 
-<h4 align="left">🌟 I work on Back-end development. I'm also focusing on continuous process improvement. I'm currently working on my programming skills, also exploring the IT field to gain immense knowledge.</h4>
+<h4 align="left">🌟 I work on Back-end development. I'm also focusing on continuous process improvement. I'm currently working on my programming skills.</h4>
 
 <h2>💫 About Me</h2>
 
